@@ -1,4 +1,4 @@
-# BIOS and Other Settings for Ubuntu
+# BIOS, EFI & Other Settings for Ubuntu
 
 ## BIOS
 Fastbook: Disabled
