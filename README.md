@@ -2,10 +2,10 @@
 *Geeks see the repo here: [inkverb/Vrk](https://github.com/inkVerb/vrk)*
 ## Learn Linux: [verb.vip](https://github.com/inkVerb/VIP)
 ___
-### [GitHub Dark Theme](https://github.com/StylishThemes/GitHub-Dark)
+### [VIP-DarkHub Code Purple](https://userstyles.org/styles/172338)
 #### 1. Install: Firefox [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) / [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/) | Chrome [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) / [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe)
-#### 2.Themify: [VIP-DarkHub Code Purple](https://github.com/inkVerb/VIP-DarkHub)
-- Or: [Github Dark Material](https://userstyles.org/styles/143865/github-dark-material) & [Dark Grey Github.com](https://userstyles.org/styles/156985/dark-grey-github-com) & [Solarized Everything: GitHub](https://userstyles.org/styles/127328/solarized-everything-github)
+#### 2. Themify: [VIP-DarkHub Code Purple](https://userstyles.org/styles/172338)
+- View the GitHub repo for VIP-DarkHub Code Purple: **[inkVerb/VIP-DarkHub](https://github.com/inkVerb/VIP-DarkHub)**
 
 ___
 ## [Ubuntu Download Links](https://github.com/inkVerb/Vubuntu/blob/master/UbuntuDL.md)
