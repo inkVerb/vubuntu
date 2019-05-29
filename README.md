@@ -10,5 +10,5 @@ ___
 ___
 ## [Ubuntu Download Links](https://github.com/inkVerb/Vubuntu/blob/master/UbuntuDL.md)
 ## [BIOS Settings](https://github.com/inkVerb/Vubuntu/blob/master/install-BIOS-UEFI.md)
-## [Nvidia](https://github.com/inkVerb/Vubuntu/blob/master/GFX-nvidia-etc.md)
+## [GRFX Nvidia etc](https://github.com/inkVerb/Vubuntu/blob/master/GFX-nvidia-etc.md)
 ## [fcitx TW_ZH](https://github.com/inkVerb/Vubuntu/blob/master/fcitxTW_ZH.md)
