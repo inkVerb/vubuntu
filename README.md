@@ -1,5 +1,5 @@
 ## Install Vrk for your PC Linux Workstation: [verb.ink](http://verb.ink)
-*Geeks see the repo here: [Vrk](https://github.com/inkVerb/vrk)*
+*Geeks see the repo here: [inkverb/Vrk](https://github.com/inkVerb/vrk)*
 ## Learn Linux: [verb.vip](https://github.com/inkVerb/VIP)
 ___
 ### [GitHub Dark Theme](https://github.com/StylishThemes/GitHub-Dark)
