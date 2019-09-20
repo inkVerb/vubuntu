@@ -8,9 +8,9 @@
 - http://releases.ubuntu.com/
 - http://cdimage.ubuntu.com/ubuntu/releases/
 
-### 18.04.2 LTS (Current)
-- http://releases.ubuntu.com/18.04/ubuntu-18.04.2-desktop-amd64.iso
-- http://releases.ubuntu.com/18.04/ubuntu-18.04.2-desktop-amd64.iso.torrent
+### 18.04.3 LTS (Current)
+- http://releases.ubuntu.com/18.04/ubuntu-18.04.3-desktop-amd64.iso
+- http://releases.ubuntu.com/18.04/ubuntu-18.04.3-desktop-amd64.iso.torrent
 
 
 ### 16.04.6 LTS
@@ -25,9 +25,9 @@
 
 ## Ubuntu Server
 
-### 18.04.2 Server LTS (Current)
-- http://releases.ubuntu.com/18.04/ubuntu-18.04.2-live-server-amd64.iso
-- http://releases.ubuntu.com/18.04/ubuntu-18.04.2-live-server-amd64.iso.torrent
+### 18.04.3 Server LTS (Current)
+- http://releases.ubuntu.com/18.04/ubuntu-18.04.3-live-server-amd64.iso
+- http://releases.ubuntu.com/18.04/ubuntu-18.04.3-live-server-amd64.iso.torrent
 
 ### 16.04.6 Server LTS
 - http://releases.ubuntu.com/16.04/ubuntu-16.04.6-server-amd64.iso
@@ -39,11 +39,11 @@
 - https://xubuntu.org/getxubuntu
 - http://cdimage.ubuntu.com/xubuntu/releases/
 
-### 18.04.2 LTS (Current)
-- http://cdimage.ubuntu.com/xubuntu/releases/18.04/release/xubuntu-18.04.2-desktop-i386.iso
-- http://cdimage.ubuntu.com/xubuntu/releases/18.04/release/xubuntu-18.04.2-desktop-i386.iso.torrent
-- http://cdimage.ubuntu.com/xubuntu/releases/18.04/release/xubuntu-18.04.2-desktop-amd64.iso
-- http://cdimage.ubuntu.com/xubuntu/releases/18.04/release/xubuntu-18.04.2-desktop-amd64.iso.torrent
+### 18.04.3 LTS (Current)
+- http://cdimage.ubuntu.com/xubuntu/releases/18.04/release/xubuntu-18.04.3-desktop-i386.iso
+- http://cdimage.ubuntu.com/xubuntu/releases/18.04/release/xubuntu-18.04.3-desktop-i386.iso.torrent
+- http://cdimage.ubuntu.com/xubuntu/releases/18.04/release/xubuntu-18.04.3-desktop-amd64.iso
+- http://cdimage.ubuntu.com/xubuntu/releases/18.04/release/xubuntu-18.04.3-desktop-amd64.iso.torrent
 
 ### 16.04.6 LTS
 - http://cdimage.ubuntu.com/xubuntu/releases/16.04.6/release/xubuntu-16.04.6-desktop-i386.iso
@@ -57,11 +57,11 @@
 - https://ubuntubudgie.org/downloads
 - http://cdimage.ubuntu.com/ubuntu-budgie/releases/https://www.amazon.com/dp/1718124058
 
-### 18.04.2 LTS (Current)
-- http://cdimage.ubuntu.com/ubuntu-budgie/releases/18.04/release/ubuntu-budgie-18.04.2-desktop-i386.iso
-- http://cdimage.ubuntu.com/ubuntu-budgie/releases/18.04/release/ubuntu-budgie-18.04.2-desktop-i386.iso.torrent
-- http://cdimage.ubuntu.com/ubuntu-budgie/releases/18.04/release/ubuntu-budgie-18.04.2-desktop-amd64.iso
-- http://cdimage.ubuntu.com/ubuntu-budgie/releases/18.04/release/ubuntu-budgie-18.04.2-desktop-amd64.iso.torrent
+### 18.04.3 LTS (Current)
+- http://cdimage.ubuntu.com/ubuntu-budgie/releases/18.04/release/ubuntu-budgie-18.04.3-desktop-i386.iso
+- http://cdimage.ubuntu.com/ubuntu-budgie/releases/18.04/release/ubuntu-budgie-18.04.3-desktop-i386.iso.torrent
+- http://cdimage.ubuntu.com/ubuntu-budgie/releases/18.04/release/ubuntu-budgie-18.04.3-desktop-amd64.iso
+- http://cdimage.ubuntu.com/ubuntu-budgie/releases/18.04/release/ubuntu-budgie-18.04.3-desktop-amd64.iso.torrent
 
 ## Ubuntu Studio
 *Xfce based, many apps aready included, good support! XD*
@@ -69,7 +69,7 @@
 - https://ubuntustudio.org/download
 - http://cdimage.ubuntu.com/ubuntustudio/releases/
 
-### 18.04.2 LTS (Current)
+### 18.04.3 LTS (Current)
 - http://cdimage.ubuntu.com/ubuntustudio/releases/18.04/release/ubuntustudio-18.04-dvd-i386.iso
 - http://cdimage.ubuntu.com/ubuntustudio/releases/18.04/release/ubuntustudio-18.04-dvd-i386.iso.torrent
 - http://cdimage.ubuntu.com/ubuntustudio/releases/18.04/release/ubuntustudio-18.04-dvd-amd64.iso
@@ -108,11 +108,11 @@
 - https://ubuntu-mate.org/download
 - http://cdimage.ubuntu.com/ubuntu-mate/releases/
 
-### 18.04.2 LTS (Current)
-- http://cdimage.ubuntu.com/ubuntu-mate/releases/18.04/release/ubuntu-mate-18.04.2-desktop-i386.iso
-- http://cdimage.ubuntu.com/ubuntu-mate/releases/18.04/release/ubuntu-mate-18.04.2-desktop-i386.iso.torrent
-- http://cdimage.ubuntu.com/ubuntu-mate/releases/18.04/release/ubuntu-mate-18.04.2-desktop-amd64.iso
-- http://cdimage.ubuntu.com/ubuntu-mate/releases/18.04/release/ubuntu-mate-18.04.2-desktop-amd64.iso.torrent
+### 18.04.3 LTS (Current)
+- http://cdimage.ubuntu.com/ubuntu-mate/releases/18.04/release/ubuntu-mate-18.04.3-desktop-i386.iso
+- http://cdimage.ubuntu.com/ubuntu-mate/releases/18.04/release/ubuntu-mate-18.04.3-desktop-i386.iso.torrent
+- http://cdimage.ubuntu.com/ubuntu-mate/releases/18.04/release/ubuntu-mate-18.04.3-desktop-amd64.iso
+- http://cdimage.ubuntu.com/ubuntu-mate/releases/18.04/release/ubuntu-mate-18.04.3-desktop-amd64.iso.torrent
 
 ### 16.04.6 LTS
 - http://cdimage.ubuntu.com/ubuntu-mate/releases/16.04.6/release/ubuntu-mate-16.04.6-desktop-i386.iso
@@ -126,11 +126,11 @@
 - http://www.kubuntu.org/getkubuntu
 - http://cdimage.ubuntu.com/kubuntu/releases/
 
-### 18.04.2 LTS (Current)
-- http://cdimage.ubuntu.com/kubuntu/releases/18.04/release/kubuntu-18.04.2-desktop-i386.iso
-- http://cdimage.ubuntu.com/kubuntu/releases/18.04/release/kubuntu-18.04.2-desktop-i386.iso.torrent
-- http://cdimage.ubuntu.com/kubuntu/releases/18.04/release/kubuntu-18.04.2-desktop-amd64.iso
-- http://cdimage.ubuntu.com/kubuntu/releases/18.04/release/kubuntu-18.04.2-desktop-amd64.iso.torrent
+### 18.04.3 LTS (Current)
+- http://cdimage.ubuntu.com/kubuntu/releases/18.04/release/kubuntu-18.04.3-desktop-i386.iso
+- http://cdimage.ubuntu.com/kubuntu/releases/18.04/release/kubuntu-18.04.3-desktop-i386.iso.torrent
+- http://cdimage.ubuntu.com/kubuntu/releases/18.04/release/kubuntu-18.04.3-desktop-amd64.iso
+- http://cdimage.ubuntu.com/kubuntu/releases/18.04/release/kubuntu-18.04.3-desktop-amd64.iso.torrent
 
 ### 16.04.6 LTS
 - http://cdimage.ubuntu.com/kubuntu/releases/16.04.6/release/kubuntu-16.04.6-desktop-i386.iso
