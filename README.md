@@ -12,3 +12,4 @@ ___
 ## [BIOS, EFI & Other Settings for Ubuntu](https://github.com/inkVerb/Vubuntu/blob/master/install-BIOS-UEFI.md)
 ## [GRFX Nvidia etc](https://github.com/inkVerb/Vubuntu/blob/master/GFX-nvidia-etc.md)
 ## [fcitx TW_ZH for Taiwanese-style Mandarin typing input in Ubuntu](https://github.com/inkVerb/Vubuntu/blob/master/fcitxTW_ZH.md)
+## Ebooks & Kindle: [Get More Out Of Your Kindle In Linux With These Simple Tips // It's FOSS @ Abhishek Prakash ](https://itsfoss.com/kindle-linux-tips/)
