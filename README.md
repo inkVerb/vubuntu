@@ -8,6 +8,7 @@ ___
 - View the GitHub repo for VIP-DarkHub Code Purple: **[inkVerb/VIP-DarkHub](https://github.com/inkVerb/VIP-DarkHub)**
 
 ___
+## [Manjaro Instructions](https://github.com/inkVerb/Vubuntu/blob/master/Manjaro.md)
 ## [Ubuntu Download Links](https://github.com/inkVerb/Vubuntu/blob/master/UbuntuDL.md)
 ## [BIOS, EFI & Other Settings for Ubuntu](https://github.com/inkVerb/Vubuntu/blob/master/install-BIOS-UEFI.md)
 ## [GRFX Nvidia etc](https://github.com/inkVerb/Vubuntu/blob/master/GFX-nvidia-etc.md)
