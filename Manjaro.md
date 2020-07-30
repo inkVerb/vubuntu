@@ -2,7 +2,7 @@
 
 ## Create a Linux Live USB
 
-1. Find our the `/dev/...` name of your USB
+1. Find the `/dev/...` name of your USB
 
 | **1** :$ `lsblk`
 
@@ -13,7 +13,8 @@
 *This example assumes:*
 
   - *`/dev/sdf` is the device name for the USB*
-  - *The .iso filename is in the present working directory as "manjaro-gnome-20.0.3-200606-linux56.iso"*
+  - *The .iso filename is in the present working directory as:* "**manjaro-gnome-20.0.3-200606-linux56.iso**"
+
 
 ## Download Sources
 
@@ -21,6 +22,10 @@
 *Based on Arch, "rolling releases", slow channel stable updates, Vrk does NOT support now, but may in the future!*
 - https://manjaro.org
 - https://manjaro.org/get-manjaro
+- [Manjaro - XFCE](https://manjaro.org/downloads/official/xfce/)
+- [Manjaro - GNOME](https://manjaro.org/downloads/official/gnome/)
+- [Manjaro - KDE](https://manjaro.org/downloads/official/kde/)
+- [Manjaro - Architect (terminal)](https://manjaro.org/downloads/official/architect/)
 
 ### Arch Linux
 *"Rolling releases", Vrk does NOT support now, but may in the future!*
